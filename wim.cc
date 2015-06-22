@@ -11,7 +11,7 @@
 using namespace std;
 
 #include <cstdio>
-#include "LineEditor.h"
+#include "WIM.h"
 
 // VETLINE editor - this is all straight forward code
 void line_editor::command(string command_line) {
